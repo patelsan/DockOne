@@ -1,0 +1,8 @@
+Link Cloud Provider
+Link the Source Provider
+Creates Tutum Image registry
+Link Tutun registry to GitHub repo
+ Build/ Configure to build on git push
+
+Create a Node cluster and create doplet on DO
+
