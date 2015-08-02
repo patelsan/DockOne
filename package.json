@@ -5,6 +5,7 @@
   "description": "Just for testing the docker deployment",
   "author": "Sanjay",
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "ip": "*"
   }
 }
