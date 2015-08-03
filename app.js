@@ -5,13 +5,13 @@ var PORT = 8080;
 
 var app = express();
 
-app.get('/loaderio-39f7bec3b847d1e5f0d406e9c380abbc', function(req, res){
+app.get('/loaderio-555e3ec69b5e3e42b879172e38ab3f9c', function(req, res){
     res.type('text/plain');
-    res.send('loaderio-39f7bec3b847d1e5f0d406e9c380abbc');
+    res.send('loaderio-555e3ec69b5e3e42b879172e38ab3f9c');
 });
 
 app.get('/', function(req, res){
-    res.send("Hello Docker...from " + ip.address());
+    res.send("Hello Docker...from (2) " + ip.address());
 });
 
 app.listen(PORT);
